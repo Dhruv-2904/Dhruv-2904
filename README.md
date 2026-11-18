@@ -40,24 +40,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhruv-2904&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-2904&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<h3 align="center">💡 Code. Learn. Build. Repeat.</h3>
-<p align="center">
-✨ Open to Internship & Collaboration Opportunities ✨
-</p>
